@@ -1,5 +1,5 @@
 name: abbaa_carraa
 description: Abbaa Carraa Digital Lottery System
-...
+
 flutter:
   uses-material-design: true
